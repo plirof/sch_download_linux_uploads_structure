@@ -1,0 +1,2 @@
+put in the uploads folder files and modify john_downloads.sh accordingly
+NOTE: server should me 192.168.1.200 if not change the client side squashfs
