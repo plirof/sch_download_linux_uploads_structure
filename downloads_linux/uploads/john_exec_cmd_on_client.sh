@@ -1,5 +1,7 @@
 # Script called by client
 # WILL NOT Stop the parent script from executing (so don't try pkill -chrome)
+# put this file in /opt/lampp/htdocs/swf
+
 
 CODEorg=https://studio.code.org/s/course1/stage/
 LANDINGpages="http://192.168.1.200/uploads/landing_pages/"
